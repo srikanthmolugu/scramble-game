@@ -10,11 +10,11 @@ $(document).ready(function(){
      $('#submit').click(function(){
          if(button=="ZUPA"){
              alert("u r done");
-             window.location="level2.html";
+             window.location="../html/level2.html";
          }
          else{
              alert("game over");
-             window.location="welcome1.html";
+             window.location="../html/welcome1.html";
          } 
     } )
      
