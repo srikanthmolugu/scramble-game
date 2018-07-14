@@ -10,7 +10,7 @@ $(document).ready(function(){
      $('#submit').click(function(){
          if(button=="ZYMASE"){
              alert("U R DONE");
-             window.location="scramble-game/hackathon(13-07-2018)/html/end.html";
+             window.location="end.html";
          }
          else{
              alert("GAME OVER");
