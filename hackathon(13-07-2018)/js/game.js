@@ -10,7 +10,7 @@ $(document).ready(function(){
      $('#submit').click(function(){
          if(button=="ZUPA"){
              alert("u r done");
-             window.location="../html/level2.html";
+             window.location="scramble-game/hackathon(13-07-2018)/html/level2.html";
          }
          else{
              alert("game over");
