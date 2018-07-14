@@ -10,11 +10,11 @@ $(document).ready(function(){
      $('#submit').click(function(){
          if(button=="HEXAD"){
              alert("U R DONE");
-             window.location="level3.html";
+             window.location="../html/level3.html";
          }
          else{
              alert("GAME OVER");
-             window.location="welcome1.html";
+             window.location="../html/welcome1.html";
          } 
     } )
      
