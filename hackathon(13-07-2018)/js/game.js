@@ -14,7 +14,7 @@ $(document).ready(function(){
          }
          else{
              alert("game over");
-             window.location="../html/welcome1.html";
+             window.location="scramble-game/hackathon(13-07-2018)/html/welcome1.html";
          } 
     } )
      
