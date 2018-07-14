@@ -10,7 +10,7 @@ $(document).ready(function(){
      $('#submit').click(function(){
          if(button=="HEXAD"){
              alert("U R DONE");
-             window.location="file:///D:/workshop/hackathon(13-07-2018)/html/congratulations.html";
+             window.location="scramble-game/hackathon(13-07-2018)/html/congratulations.html";
          }
          else{
              alert("GAME OVER");
