@@ -10,11 +10,11 @@ $(document).ready(function(){
      $('#submit').click(function(){
          if(button=="HEXAD"){
              alert("U R DONE");
-             window.location="scramble-game/hackathon(13-07-2018)/html/level3.html";
+             window.location="level3.html";
          }
          else{
              alert("GAME OVER");
-             window.location="scramble-game/hackathon(13-07-2018)/html/welcome1.html";
+             window.location="welcome1.html";
          } 
     } )
      
